@@ -1,4 +1,4 @@
-# 🎓 Assistente Inteligente de Agendamento de Treinamentos
+# Assistente Inteligente de Agendamento de Treinamentos
 
 Sistema desenvolvido em Python com FastAPI para automatizar a criação de treinamentos corporativos e preparar convites para reuniões Microsoft Teams.
 
